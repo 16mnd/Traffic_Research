@@ -1,0 +1,1 @@
+Mitigating Traffic within vehicular networks. Goal is cluster networks into smaller more intuitive networks that provide more information about traffic in specific areas. Then from here begin to implement unsupervised tasks such as Markov Chains/Stationary Dist to provide insight on what paths to take over time for cars.
